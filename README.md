@@ -16,5 +16,5 @@
 **In order to ensure security of the personal data, StarVPN employs various administrative, technical and physical security measures, however it is your responsibility to exercise caution and reason when using the StarVPN Services. You will be personally responsible if such action violates any third party’s privacy or any other rights, or any applicable law. Under no circumstances, StarVPN is liable for the consequences of your unlawful activities, your willful and negligent activities violating applicable laws or third party rights, as well as any circumstances, which may not have been reasonably controlled or foreseen.**
 
 # How to Contact StarVPN #
-**If you have any questions regarding our Privacy Policy and how we handle your information, please feel free to contact StarVPN at the following email address:porsche9112023@163.com**
+**If you have any questions regarding our Privacy Policy and how we handle your information, please feel free to contact StarVPN at the following email address: xkvpn6@163.com**
 
