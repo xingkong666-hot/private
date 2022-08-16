@@ -1,5 +1,5 @@
 # Privacy Policy #
-**We are committed to consumer privacy protection. Lets VPN does not collect or log traffic data, browsing activity, email address, phone number, or any personal information from individual users connected to the Services.！**
+**We are committed to consumer privacy protection. StarVPN does not collect or log traffic data, browsing activity, email address, phone number, or any personal information from individual users connected to the Services.！**
 
 **Our software utilizes the third party diagnostics service Fabric, a Google service, for the purpose of identifying service issues and problems inside our services. The information collected is generic in nature and does not contain personally identifiable information.**
 
